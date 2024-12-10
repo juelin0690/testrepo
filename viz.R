@@ -19,3 +19,4 @@ if (mean(data$column_name) > 10) {
 } else {
   print("Mean is less than or equal to 10")
 }
+Hi there!
